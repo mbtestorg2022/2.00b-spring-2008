@@ -25,9 +25,9 @@ Bee, Helen L., and Denise Roberts Boyd. _The Developing Child_. 10th ed. Boston,
 Reference Documents
 -------------------
 
-Toys for Children Birth to Age 5 - The U.S. Consumer Product Safety Commission (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB](https://www.cpsc.gov/s3fs-public/2_0.pdf))
+Toys for Children Birth to Age 5 - The U.S. Consumer Product Safety Commission ([PDF - 1.1 MB](https://www.cpsc.gov/s3fs-public/2_0.pdf))
 
-Toys for Children 6-12 - The U.S. Consumer Product Safety Commission (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.cpsc.gov/s3fs-public/1.pdf))
+Toys for Children 6-12 - The U.S. Consumer Product Safety Commission ([PDF](https://www.cpsc.gov/s3fs-public/1.pdf))
 
 [Characteristics of Boys' and Girls' Toys](https://link.springer.com/article/10.1007/s11199-005-7729-0) - Judith Blakemore and Renee E. Centers
 
