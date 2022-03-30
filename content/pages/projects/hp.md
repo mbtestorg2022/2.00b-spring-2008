@@ -10,7 +10,7 @@ uid: 5aa4ce93-130c-fe53-ee18-a4f687a688b4
 
 Red Team: [R2D2ooth]({{< baseurl >}}/pages/projects/r2d2ooth) Blue Team: [Flava-Rama]({{< baseurl >}}/pages/projects/flavarama) Yellow Team: HP Magical Brush Green Team: [The BatCave]({{< baseurl >}}/pages/projects/batcave) Purple Team: [FlossZilla]({{< baseurl >}}/pages/projects/flosszilla)
 
-![HP magical brush.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/harrypotter.jpg)
+{{< resource "dc85c085-caa3-8b64-c5c8-c7b2a0cf0a90" >}}
 
 Harry Potter's Magical Toothbrush levitates before your eyes when placed inside its holder. The base illuminates when the toothbrush is near.
 

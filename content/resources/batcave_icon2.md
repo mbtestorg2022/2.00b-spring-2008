@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: batcave_icon2.jpg
 uid: a93ac681-f85f-acf6-05f6-20df9a6747df

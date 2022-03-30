@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: roliboli_icon2.jpg
 uid: 756b59e6-fe22-09bd-7a93-f84b350966c1

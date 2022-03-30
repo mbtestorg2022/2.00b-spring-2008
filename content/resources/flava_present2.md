@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: flava_present2.jpg
 uid: 86036c49-9a19-d4d5-63d2-3ef2e8a34585

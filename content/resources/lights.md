@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: lights.jpg
 uid: c39ace7a-1ca0-fe11-9c3c-7b7c87a3667e

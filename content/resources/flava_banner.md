@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: flava_banner.jpg
 uid: a9a5dc51-05d2-2bcd-f612-e4a83f956e4c

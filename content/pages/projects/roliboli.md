@@ -16,7 +16,7 @@ uid: 026d512b-cacd-31e3-1f0b-ae2115d8ab1c
 Roli Boli  
 [Magnimals]({{< baseurl >}}/pages/projects/magnimals)
 
-![Roli boli.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/roliboli.jpg)
+{{< resource "60488647-2792-375e-bd37-c89ea00c85ce" >}}
 
 Roli Boli are happy spherical creatures that are passed between players through flexible colorful tubes. The tubes are designed to be held around the back of the head so as the Roli passes through the tube, the player can hear a fun buzzing ringing sound. The lengths of tube are joined with foam joints.
 

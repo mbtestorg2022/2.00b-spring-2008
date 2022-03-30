@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: eggman_icon2.jpg
 uid: 2f801eed-bb31-30f5-f9e1-1967c33e9079

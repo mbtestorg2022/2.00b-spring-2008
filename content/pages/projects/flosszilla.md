@@ -10,7 +10,7 @@ uid: 3d01aa12-2a1c-1d9f-61a5-eef69d2142f8
 
 Red Team: [R2D2ooth]({{< baseurl >}}/pages/projects/r2d2ooth) Blue Team: [Flava-Rama]({{< baseurl >}}/pages/projects/flavarama) Yellow Team: [HP Magical Brush]({{< baseurl >}}/pages/projects/hp) Green Team: [The BatCave]({{< baseurl >}}/pages/projects/batcave) Purple Team: FlossZilla
 
-![FlossZilla.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/flosszilla.jpg)
+{{< resource "88f349f4-8d78-29fb-5e3a-d089461b06db" >}}
 
 A multi-purpose dinosaur that dispenses toothpaste, holds your toothbrush and encourages you to floss. The floss is dispensed through the tail of the dinosaur.
 

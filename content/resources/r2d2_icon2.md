@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: r2d2_icon2.jpg
 uid: e4b9e6e2-ff19-e4de-b885-5422ed525935

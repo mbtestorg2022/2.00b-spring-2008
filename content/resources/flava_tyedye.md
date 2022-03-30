@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: flava_tyedye.jpg
 uid: 131b3307-0fc8-d86a-4a88-d7dffe53727c

@@ -10,7 +10,7 @@ uid: 4f534e0d-4171-d93e-6014-b15ef2d22a9f
 
 Red Team: [R2D2ooth]({{< baseurl >}}/pages/projects/r2d2ooth) Blue Team: Flava-Rama Yellow Team: [HP Magical Brush]({{< baseurl >}}/pages/projects/hp) Green Team: [The BatCave]({{< baseurl >}}/pages/projects/batcave) Purple Team: [FlossZilla]({{< baseurl >}}/pages/projects/flosszilla)
 
-![Flava-Rama.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/flavarama.jpg)
+{{< resource "0d967e8e-f293-1867-556a-00002d878845" >}}
 
 A fun toothpaste dispenser that lets kids of all ages mix and match their favorite flavors into a new and wonderful toothpaste.
 

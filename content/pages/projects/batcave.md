@@ -10,7 +10,7 @@ uid: a8594227-ff84-c9cf-4512-4111e2ddfbb0
 
 Red Team: [R2D2ooth]({{< baseurl >}}/pages/projects/r2d2ooth) Blue Team: [Flava-Rama]({{< baseurl >}}/pages/projects/flavarama) Yellow Team: [HP Magical Brush]({{< baseurl >}}/pages/projects/hp) Green Team: The BatCave Purple Team: [FlossZilla]({{< baseurl >}}/pages/projects/flosszilla)
 
-![The BatCave.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/batcave.jpg)
+{{< resource "f2a18c89-6f4f-6301-b1f6-3f9d4e95192e" >}}
 
 Holy rare earth magnets, Batman! Have fun defying gravity while organizing your bathroom.
 

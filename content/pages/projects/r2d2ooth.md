@@ -14,7 +14,7 @@ Yellow Team: [HP Magical Brush]({{< baseurl >}}/pages/projects/hp)
 Green Team: [The BatCave]({{< baseurl >}}/pages/projects/batcave)  
 Purple Team: [FlossZilla]({{< baseurl >}}/pages/projects/flosszilla)
 
-![R2D2ooth.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/r2dtooth.jpg)
+{{< resource "c9fc5fdc-7fb0-772c-e935-c5f73e537736" >}}
 
 R2D2ooth is the ultimate robotic dental hygiene sink-top assistant. R2 ejects a light saber toothbrush. The light saber toothbrush illuminates when in use.
 

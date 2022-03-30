@@ -16,7 +16,7 @@ uid: 5dec2193-42ab-d378-02a0-e288ac445eba
 [Roli Boli]({{< baseurl >}}/pages/projects/roliboli)  
 Magnimals
 
-![Magnimals.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/magnimals.jpg)
+{{< resource "a85a873e-017f-2e6e-3868-7ca5ea2162e8" >}}
 
 Magnimals are a set of interchangable animal parts. All parts have embedded magnet connections and can be connected in many different orientations ([MP4 - 4.3 MB](/ans7870/2/2.00b/s08/magnimals.mp4)).
 

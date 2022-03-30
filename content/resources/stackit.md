@@ -14,6 +14,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: stackit.jpg
 uid: 0de5ce63-c983-3d57-c4a9-26d76d0b6476

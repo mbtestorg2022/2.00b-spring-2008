@@ -12,6 +12,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: r2dtooth.jpg
 uid: c9fc5fdc-7fb0-772c-e935-c5f73e537736

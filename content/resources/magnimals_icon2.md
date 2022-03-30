@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: magnimals_icon2.jpg
 uid: 74a51785-a9c6-b06e-d56a-a1fd55089acd
